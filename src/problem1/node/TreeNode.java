@@ -40,7 +40,7 @@ public class TreeNode {
 
     public void setParent(TreeNode parent) {
         this.parent = parent;
-    }generate getter and setter for instance variables
+    }
 
     @Override
     public String toString() {
